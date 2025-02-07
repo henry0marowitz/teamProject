@@ -1,2 +1,2 @@
 # teamProject
-Semester Project for Community Organization
+Semester Project for The Freedom Center "tentatively"
