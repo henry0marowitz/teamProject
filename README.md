@@ -1,2 +1,2 @@
 # teamProject
-Team project for feb 6
+Semester Project for Community Organization
